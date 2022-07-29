@@ -74,7 +74,7 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 		* Item 3.1.1;
     
 >      * Item 1;
->	      * Item 1.1;
+>	     * Item 1.1;
 >	    * Item 2;
 >	     * Item 2.1;
 >	     * Item 2.2;
